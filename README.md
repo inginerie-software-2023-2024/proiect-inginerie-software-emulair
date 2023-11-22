@@ -1,6 +1,6 @@
 # Emulair
 
-## Details
+## Project Requirements
 Emulair is an Android exclusive open-source front-end for Libretro cores, based on [Lemuroid](https://github.com/Swordfish90/Lemuroid). The primary goal of Emulair is to combine the ease of use and simple but accessible interface of Lemuroid with RetroArch's extensive customizability and features, while also adding support for standalone emulators.
 
 The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers.
