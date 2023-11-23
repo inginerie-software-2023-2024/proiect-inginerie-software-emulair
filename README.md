@@ -11,3 +11,39 @@ For more information about the projects (such as the features, user stories, use
 Android: https://github.com/Emulair/Emulair-Android#added-features
 
 Web: https://github.com/Emulair/Emulair-Web#added-features
+
+## User Stories for the Initial Project (Android)
+https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements
+
+**Note: All of our initial user stories have been completed.**
+
+## SDM - Original Team Description (Android)
+Radu-George Bratan: Android team lead, Android developer, designer
+Eduard Gabriel Cristea: Android developer
+Eduard Marian Marin Florin: Android developer
+Diana Elena Gisca: Android developer
+Valentian Adrian Nafornita: Android developer
+
+## SWE - New Team Description (Android and Web)
+Radu-George Bratan: Android team lead, Android developer, designer
+Eduard Marian Marin Florin: Android developer
+Cosmin Colceru: Android developer
+Eduard Gabriel Cristea: web team lead, web developer, designer
+Alexandru Antonio Petrescu: web developer, designer
+Mihai Catalin Grigore: web developer
+
+## Software Architecture Report (Android)
+Q: What are the technologies that you have used, and why?
+A: We used Kotlin and XML as languages because that's what the original project was written in and was easier to continue with those (Emulair is a fork of Lemuroid, as stated [here](https://github.com/Emulair/Emulair-Android#origin)).
+
+Q: What are the architectural patterns you have implemented and were they appropriate, and why?
+A: We used MVVM as our primary architctural pattern because not only is this the industry standard, but also because it's sufficiently easy to grasp and extremely useful once mastered.
+
+Q: Were the coding principles established enforced successfully?
+A: Yes. We discussed about what principles to used (naming conventions, code styles, etc) and followed them.
+
+Q: What are the faults that were discovered during development that haven’t been addressed by the time of delivery?
+A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-Android/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Abug
+
+Q: Does any part of the project require refactoring?
+A: Right now, no, but in the future, it will.
