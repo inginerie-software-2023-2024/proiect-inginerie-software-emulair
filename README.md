@@ -8,9 +8,9 @@ The web version of Emulair is a website created for users and developers so they
 For more information about the projects (such as the features, user stories, user personas, etc.), check the [Wiki page](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki). To see our backlogs, check the original [Android Projects page](https://github.com/orgs/Emulair/projects/1) and [Web Projects page](https://github.com/orgs/Emulair/projects/2).
 
 ## Product Features
-Android: https://github.com/Emulair/Emulair-Android#added-features
+Android: https://github.com/Emulair/Emulair-Android#upcoming-features
 
-Web: https://github.com/Emulair/Emulair-Web#added-features
+Web: https://github.com/Emulair/Emulair-Web#upcoming-features
 
 ## User Stories for the Initial Project (Android)
 https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements
