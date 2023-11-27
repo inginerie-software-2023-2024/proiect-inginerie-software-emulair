@@ -30,6 +30,7 @@ Alexandru Antonio Petrescu: web developer, designer
 Mihai Catalin Grigore: web developer
 
 ## Software Architecture Report (Android)
+
 Q: What are the technologies that you have used, and why?
 A: We used Kotlin and XML as languages because that's what the original project was written in and was easier to continue with those (Emulair is a fork of Lemuroid, as stated [here](https://github.com/Emulair/Emulair-Android#origin)).
 
@@ -44,3 +45,7 @@ A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-An
 
 Q: Does any part of the project require refactoring?
 A: Right now, no, but in the future, it will.
+
+## State Diagram
+
+[adding_favourite_game_from_game_list_flow.pdf](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/files/13468557/adding_favourite_game_from_game_list_flow.pdf)
