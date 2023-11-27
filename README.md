@@ -10,8 +10,7 @@ For more information about the projects (such as the **features**, **user storie
 To see our **backlogs**, check the original [Android Projects page](https://github.com/orgs/Emulair/projects/1) and [web Projects page](https://github.com/orgs/Emulair/projects/2).
 
 ## User Stories for the Initial Project (Android)
-https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements<br />
-**Note: All of our initial user stories have been completed.**
+The original user stories canbe accessed here: https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements. All of our initial user stories have been implemented.
 
 ## SDM - Original Team Description (Android)
 Radu-George Bratan: Android team lead, Android developer, designer
