@@ -10,9 +10,7 @@ For more information about the projects (such as the **features**, **user storie
 To see our **backlogs**, check the original [Android Projects page](https://github.com/orgs/Emulair/projects/1) and [web Projects page](https://github.com/orgs/Emulair/projects/2).
 
 ## User Stories for the Initial Project (Android)
-https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements
-
-**Note: All of our initial user stories have been completed.**
+The original user stories canbe accessed here: https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements. All of our initial user stories have been implemented.
 
 ## SDM - Original Team Description (Android)
 Radu-George Bratan: Android team lead, Android developer, designer
@@ -30,22 +28,20 @@ Alexandru Antonio Petrescu: web developer, designer
 Mihai Catalin Grigore: web developer
 
 ## Software Architecture Report (Android)
-
-Q: What are the technologies that you have used, and why?
+Q: What are the technologies that you have used, and why?<br />
 A: We used Kotlin and XML as languages because that's what the original project was written in and was easier to continue with those (Emulair is a fork of Lemuroid, as stated [here](https://github.com/Emulair/Emulair-Android#origin)).
 
-Q: What are the architectural patterns you have implemented and were they appropriate, and why?
+Q: What are the architectural patterns you have implemented and were they appropriate, and why?<br />
 A: We used MVVM as our primary architctural pattern because not only is this the industry standard, but also because it's sufficiently easy to grasp and extremely useful once mastered.
 
-Q: Were the coding principles established enforced successfully?
+Q: Were the coding principles established enforced successfully?<br />
 A: Yes. We discussed about what principles to used (naming conventions, code styles, etc) and followed them.
 
-Q: What are the faults that were discovered during development that haven’t been addressed by the time of delivery?
+Q: What are the faults that were discovered during development that haven’t been addressed by the time of delivery?<br />
 A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-Android/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Abug
 
-Q: Does any part of the project require refactoring?
+Q: Does any part of the project require refactoring?<br />
 A: Right now, no, but in the future, it will.
 
 ## State Diagram
-
 [adding_favourite_game_from_game_list_flow.pdf](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/files/13468557/adding_favourite_game_from_game_list_flow.pdf)
