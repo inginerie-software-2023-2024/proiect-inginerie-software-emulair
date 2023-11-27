@@ -43,5 +43,5 @@ A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-An
 Q: Does any part of the project require refactoring?<br />
 A: Right now, no, but in the future, it will.
 
-## State Diagram
+## State Diagram (Android and Web)
 [adding_favourite_game_from_game_list_flow.pdf](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/files/13468557/adding_favourite_game_from_game_list_flow.pdf)
