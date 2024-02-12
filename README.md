@@ -38,9 +38,7 @@ Acces the original user stories here: https://github.com/Emulair/Emulair-Android
 Most of our project requirements (the ones that require writing) can be more easily seen in the [Wiki page](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/). We also included them below to make sure they can't be missed, along with the other requirements that can't be placed in the wiki.
 
 ### 👁️ Vision for the Current Project
-The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers.
-
-We want to develop an engaging and interactive web platform to serve as an extended showcase for our mobile app, a phone game emulator. Our goal is to provide a unique experience to our users, promote interaction, and facilitate the presentation and exploration of our mobile application's functionality. Through this web platform, we want to highlight key features, provide a space for feedback, and encourage the community to share their experiences.
+The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers. In short, we want to develop a web platform to serve as a companion for our mobile app. Our goal is to showcase potential users our application's functionalities.
 
 ### 👥 Team Description for the Current Project
 Eduard Gabriel Cristea: web team lead, backend web developer<br />
