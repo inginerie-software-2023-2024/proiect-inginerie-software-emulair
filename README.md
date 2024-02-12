@@ -49,34 +49,34 @@ Eduard Marian Marin Florin: assistant web developer<br />
 Cosmin Colceru: assistant web developer
 
 ### 📓 Upcoming Features for the Current Project
-Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 🔒 Non-Functional Requirements for the Current Project
-Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 👤 User Stories for the Current Project
-Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### :accessibility: User Personas for the Current Project
-Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 🗺️ User Journey Map for the Current Project
-Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 📜 Backlog for the Current Project
-Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 🔜 Roadmap for the Current Project
-Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 📈 State Diagram for the Current Project
-Access the state diagram here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the state diagram here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 📎 Software Architecture Report for the Current Project
-Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 🎧 Sprint Report for the Current Project
-Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
 
 ### 🔘 Project Setup
-Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
