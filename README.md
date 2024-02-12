@@ -1,33 +1,19 @@
-# Emulair
+# Original Project Requirements (Android)
 
-## Project Requirements
+### 👁️ Vision for the Initial Project
 Emulair is an Android exclusive open-source front-end for Libretro cores, based on [Lemuroid](https://github.com/Swordfish90/Lemuroid). The primary goal of Emulair is to combine the ease of use and simple but accessible interface of Lemuroid with RetroArch's extensive customizability and features, while also adding support for standalone emulators.
 
-The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers.
+### 📓 Already Implemented Features
+Access the already implemented features here: https://github.com/Emulair/Emulair-Android?tab=readme-ov-file#added-features.
 
-For more information about the projects (such as the **features**, **user stories**, **user personas**, etc.), check this [Wiki page](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki), the [Android Wiki page](https://github.com/Emulair/Emulair-Androi/wiki/4.-SWE-Project-Requirements) or the [web Wiki page](https://github.com/Emulair/Emulair-Web/wiki/3.-SWE-Project-Requirements).
-
-To see our **backlogs**, check the original [Android Projects page](https://github.com/orgs/Emulair/projects/1) and [web Projects page](https://github.com/orgs/Emulair/projects/2).
-
-## User Stories for the Initial Project (Android)
-The original user stories canbe accessed here: https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements. All of our initial user stories have been implemented.
-
-## SDM - Original Team Description (Android)
-Radu-George Bratan: Android team lead, Android developer, designer
-Eduard Gabriel Cristea: Android developer
-Eduard Marian Marin Florin: Android developer
-Diana Elena Gisca: Android developer
+### 👥 Team Description for the Initial Project
+Radu-George Bratan: Android team lead, Android developer, designer<br />
+Eduard Gabriel Cristea: Android developer<br />
+Eduard Marian Marin Florin: Android developer<br />
+Diana Elena Gisca: Android developer<br />
 Valentian Adrian Nafornita: Android developer
 
-## SWE - New Team Description (Android and Web)
-Radu-George Bratan: Android team lead, Android developer, designer
-Eduard Marian Marin Florin: Android developer
-Cosmin Colceru: Android developer
-Eduard Gabriel Cristea: web team lead, web developer, designer
-Alexandru Antonio Petrescu: web developer, designer
-Mihai Catalin Grigore: web developer
-
-## Software Architecture Report (Android)
+### 💻 Software Architecture Report for the Initial Project
 Q: What are the technologies that you have used, and why?<br />
 A: We used Kotlin and XML as languages because that's what the original project was written in and was easier to continue with those (Emulair is a fork of Lemuroid, as stated [here](https://github.com/Emulair/Emulair-Android#origin)).
 
@@ -43,5 +29,54 @@ A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-An
 Q: Does any part of the project require refactoring?<br />
 A: Right now, no, but in the future, it will.
 
-## State Diagram (Android and Web)
-[adding_favourite_game_from_game_list_flow.pdf](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/files/13468557/adding_favourite_game_from_game_list_flow.pdf)
+### 👤 User Stories for the Initial Project
+Acces the original user stories here: https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements. All of our initial user stories have been implemented.
+
+<br />
+
+# Current Project Requirements (Web)
+All of our project requirements can be more easily seen in the [Wiki page](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/). We also included them below to make sure they can't be missed.
+
+### 👁️ Vision for the Current Project
+The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers.
+
+### 👥 Team Description for the Current Project
+Eduard Gabriel Cristea: web team lead, backend web developer<br />
+Radu-George Bratan: frontend web developer, designer<br />
+Alexandru Antonio Petrescu: frontend web developer<br />
+Mihai Catalin Grigore: backend web developer<br />
+Eduard Marian Marin Florin: assistant web developer<br />
+Cosmin Colceru: assistant web developer
+
+### 📓 Upcoming Features for the Current Project
+Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 🔒 Non-Functional Requirements for the Current Project
+Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 👤 User Stories for the Current Project
+Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### :accessibility: User Personas for the Current Project
+Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 🗺️ User Journey Map for the Current Project
+Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 📜 Backlog for the Current Project
+Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 🔜 Roadmap for the Current Project
+Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 📈 State Diagram for the Current Project
+Access the state diagram here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 📎 Software Architecture Report for the Current Project
+Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 🎧 Sprint Report for the Current Project
+Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
+
+### 🔘 Project Setup
+Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki
