@@ -40,6 +40,8 @@ Most of our project requirements (the ones that require writing) can be more eas
 ### 👁️ Vision for the Current Project
 The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers.
 
+We want to develop an engaging and interactive web platform to serve as an extended showcase for our mobile app, a phone game emulator. Our goal is to provide a unique experience to our users, promote interaction, and facilitate the presentation and exploration of our mobile application's functionality. Through this web platform, we want to highlight key features, provide a space for feedback, and encourage the community to share their experiences.
+
 ### 👥 Team Description for the Current Project
 Eduard Gabriel Cristea: web team lead, backend web developer<br />
 Radu-George Bratan: frontend web developer, designer<br />
@@ -49,34 +51,34 @@ Eduard Marian Marin Florin: assistant web developer<br />
 Cosmin Colceru: assistant web developer
 
 ### 📓 Upcoming Features for the Current Project
-Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/1.-Upcoming-Features.
 
 ### 🔒 Non-Functional Requirements for the Current Project
-Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/2.-Non‐Functional-Requirements.
 
 ### 👤 User Stories for the Current Project
-Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/3.-User-Stories.
 
 ### :accessibility: User Personas for the Current Project
-Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/4.-User-Personas.
 
 ### 🗺️ User Journey Map for the Current Project
-Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.
 
 ### 📜 Backlog for the Current Project
-Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/projects?query=is%3Aopen.
 
 ### 🔜 Roadmap for the Current Project
-Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Roadmap.
 
 ### 📈 State Diagram for the Current Project
-Access the state diagram here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the state diagram here: [TODO: CREATE NEW STATE DIAGRAM].
 
 ### 📎 Software Architecture Report for the Current Project
-Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/7.-Software-Architecture-Report.
 
 ### 🎧 Sprint Report for the Current Project
-Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/8.-Sprint-Report.
 
 ### 🔘 Project Setup
-Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki.
+Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/9.-Project-Setup.
