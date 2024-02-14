@@ -68,7 +68,7 @@ Access the current illustrated user journey map here: [Current Illustrated Journ
 Access the current backlog here: [Current Backlog](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/projects?query=is%3Aopen).
 
 ### 🔜 Roadmap for the Current Project
-Access the current roadmap here: [Current Roadmap](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Roadmap).
+Access the current roadmap here: [Current Roadmap]().
 
 ### 📈 State Diagram for the Current Project
 Access the current state diagram here: [Current State Diagram]().
@@ -80,4 +80,4 @@ Access the current software architecture report here: [Current Software Architec
 Access the current sprint report here: [Current Sprint Report](https://docs.google.com/document/d/1G1mLmtqDwl0qlCCX2koWiTrAmkKU8Apf50IGzevV88s/edit#heading=h.k2upgihlx1t9).
 
 ### 🔘 Project Setup
-Access the project setup instructions here: [Project Setup](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/9.-Project-Setup).
+Access the project setup instructions here: [Project Setup](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Project-Setup).
