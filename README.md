@@ -4,7 +4,7 @@
 Emulair is an Android exclusive open-source front-end for Libretro cores, based on [Lemuroid](https://github.com/Swordfish90/Lemuroid). The primary goal of Emulair is to combine the ease of use and simple but accessible interface of Lemuroid with RetroArch's extensive customizability and features, while also adding support for standalone emulators.
 
 ### 📓 Already Implemented Features
-Access the already implemented features here: https://github.com/Emulair/Emulair-Android?tab=readme-ov-file#added-features.
+Access the already implemented features here: [Original Implemented Features](https://github.com/Emulair/Emulair-Android?tab=readme-ov-file#added-features).
 
 ### 👥 Team Description for the Initial Project
 Radu-George Bratan: Android team lead, Android developer, designer<br />
@@ -24,13 +24,13 @@ Q: Were the coding principles established enforced successfully?<br />
 A: Yes. We discussed about what principles to used (naming conventions, code styles, etc) and followed them.
 
 Q: What are the faults that were discovered during development that haven’t been addressed by the time of delivery?<br />
-A: Here are some bugs that we encountered: https://github.com/Emulair/Emulair-Android/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Abug
+A: Here are some bugs that we encountered: [Encountered Bugs](https://github.com/Emulair/Emulair-Android/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Abug).
 
 Q: Does any part of the project require refactoring?<br />
 A: Right now, no, but in the future, it will.
 
 ### 👤 User Stories for the Initial Project
-Acces the original user stories here: https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements. All of our initial user stories have been implemented.
+Acces the original user stories here: [Original User Stories](https://github.com/Emulair/Emulair-Android/wiki/3.-SDM-project-requirements). All of our initial user stories have been implemented.
 
 <br />
 
@@ -49,35 +49,35 @@ Eduard Marian Marin Florin: assistant web developer<br />
 Cosmin Colceru: assistant web developer
 
 ### 📓 Upcoming Features for the Current Project
-Access the upcoming features here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/1.-Upcoming-Features.
+Access the upcoming features here: [Current Upcoming Features](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/1.-Upcoming-Features).
 
 ### 🔒 Non-Functional Requirements for the Current Project
-Access the non-functional requirements here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/2.-Non‐Functional-Requirements.
+Access the non-functional requirements here: [Current Non-Functional Requirements](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/2.-Non‐Functional-Requirements).
 
 ### 👤 User Stories for the Current Project
-Acces the current user stories here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/3.-User-Stories.
+Acces the current user stories here: [Current User Stories](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/3.-User-Stories).
 
 ### :accessibility: User Personas for the Current Project
-Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/4.-User-Personas.
+Access the current user personas here: [Current User Personas](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/4.-User-Personas).
 
 ### 🗺️ User Journey Map for the Current Project
-Access the current written user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.<br />
-Access the current illustrated user journey map here: [TODO: CREATE ILLUSTRATED USER JOURNEY MAP].
+Access the current written user journey map here: [Current Written Journey Map](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map).<br />
+Access the current illustrated user journey map here: [Current Illustrated Journey Map]().
 
 ### 📜 Backlog for the Current Project
-Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/projects?query=is%3Aopen.
+Access the current backlog here: [Current Backlog](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/projects?query=is%3Aopen).
 
 ### 🔜 Roadmap for the Current Project
-Access the current roadmap here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Roadmap.
+Access the current roadmap here: [Current Roadmap](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Roadmap).
 
 ### 📈 State Diagram for the Current Project
-Access the state diagram here: [TODO: CREATE NEW STATE DIAGRAM].
+Access the current state diagram here: [Current State Diagram]().
 
 ### 📎 Software Architecture Report for the Current Project
-Access the software architecture report here: https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc.
+Access the current software architecture report here: [Current Software Architecture Report](https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc).
 
 ### 🎧 Sprint Report for the Current Project
-Access the current sprint report here: https://docs.google.com/document/d/1G1mLmtqDwl0qlCCX2koWiTrAmkKU8Apf50IGzevV88s/edit#heading=h.k2upgihlx1t9.
+Access the current sprint report here: [Current Sprint Report](https://docs.google.com/document/d/1G1mLmtqDwl0qlCCX2koWiTrAmkKU8Apf50IGzevV88s/edit#heading=h.k2upgihlx1t9).
 
 ### 🔘 Project Setup
-Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/9.-Project-Setup.
+Access the project setup instructions here: [Project Setup](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/9.-Project-Setup).
