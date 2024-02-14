@@ -61,7 +61,8 @@ Acces the current user stories here: https://github.com/inginerie-software-2023-
 Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/4.-User-Personas.
 
 ### 🗺️ User Journey Map for the Current Project
-Access the current user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.
+Access the current written user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.
+Access the current illustrated user journey map here: [TODO: CREATE ILLUSTRATED USER JOURNEY MAP].
 
 ### 📜 Backlog for the Current Project
 Access the current backlog here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/projects?query=is%3Aopen.
@@ -73,10 +74,10 @@ Access the current roadmap here: https://github.com/inginerie-software-2023-2024
 Access the state diagram here: [TODO: CREATE NEW STATE DIAGRAM].
 
 ### 📎 Software Architecture Report for the Current Project
-Access the software architecture report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/7.-Software-Architecture-Report.
+Access the software architecture report here: https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc.
 
 ### 🎧 Sprint Report for the Current Project
-Access the current sprint report here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/8.-Sprint-Report.
+Access the current sprint report here: https://docs.google.com/document/d/1G1mLmtqDwl0qlCCX2koWiTrAmkKU8Apf50IGzevV88s/edit#heading=h.k2upgihlx1t9.
 
 ### 🔘 Project Setup
 Access the project setup instructions here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/9.-Project-Setup.
