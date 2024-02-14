@@ -61,7 +61,7 @@ Acces the current user stories here: https://github.com/inginerie-software-2023-
 Access the current user personas here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/4.-User-Personas.
 
 ### 🗺️ User Journey Map for the Current Project
-Access the current written user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.
+Access the current written user journey map here: https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map.<br />
 Access the current illustrated user journey map here: [TODO: CREATE ILLUSTRATED USER JOURNEY MAP].
 
 ### 📜 Backlog for the Current Project
