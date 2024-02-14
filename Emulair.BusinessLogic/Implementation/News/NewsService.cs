@@ -110,6 +110,10 @@ namespace Emulair.BusinessLogic.Implementation.News
                 throw new NotFoundErrorException();
             }
             var comments = UnitOfWork.Comments.Get().Where(c => c.NewsId == newsId).ToList();
+            foreach(var comment in comments)
+            {
+                comment.AuthorName = UnitOfWork.Users.Find(comment.AuthorId).FirstName + " " + UnitOfWork.Users.Find(comment.AuthorId).LastName;
+            }
             var newsModel = Mapper.Map<News1, NewsModel>(news);
             newsModel.Comments = comments;
             newsModel.Author = UnitOfWork.Users.Find(newsModel.AuthorId).FirstName + " " + UnitOfWork.Users.Find(newsModel.AuthorId).LastName;
@@ -191,6 +195,7 @@ namespace Emulair.BusinessLogic.Implementation.News
             com.ParentCommentId = com.CommentId;
             com.PostDate = DateTime.Now;
             com.Message = comment;
+            com.AuthorName = UnitOfWork.Users.Find(com.AuthorId).FirstName + " " + UnitOfWork.Users.Find(com.AuthorId).LastName;
             com.IsReview = false;
             AddCommentValidator.Validate(com).ThenThrow(com);
             UnitOfWork.Comments.Insert(com);
@@ -208,6 +213,7 @@ namespace Emulair.BusinessLogic.Implementation.News
             com.Message = review;
             com.Rating = rating;
             com.IsReview = true;
+            com.AuthorName = UnitOfWork.Users.Find(com.AuthorId).FirstName + " " + UnitOfWork.Users.Find(com.AuthorId).LastName;
             AddCommentValidator.Validate(com).ThenThrow(com);
             UnitOfWork.Comments.Insert(com);
             UnitOfWork.SaveChanges();

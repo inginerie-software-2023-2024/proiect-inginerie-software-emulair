@@ -25,6 +25,7 @@ namespace EmulairWEB.Models
         public bool IsDeleted { get; set; }
         public bool IsReview{ get; set; }
         public int Rating { get; set; }
+        public string AuthorName { get; set; }
 
         public virtual User Author { get; set; } = null!;
 
