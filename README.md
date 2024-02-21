@@ -72,7 +72,7 @@ Access the current backlog here: [Current Backlog](https://github.com/orgs/ingin
 Access the current roadmap here: [Current Roadmap](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/4?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 📈 State Diagram for the Current Project
-Access the current state diagram here. [Current State Diagram](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/blob/main/state%20diagram%20review%20feature.png).
+Access the current state diagram here: [Current State Diagram](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/blob/main/state%20diagram%20review%20feature.png).
 
 ### 📎 Software Architecture Report for the Current Project
 Access the current software architecture report here: [Current Software Architecture Report](https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc).
@@ -80,5 +80,8 @@ Access the current software architecture report here: [Current Software Architec
 ### 🎧 Sprint Report for the Current Project
 Access the current sprint report here: [Current Sprint Report](https://docs.google.com/document/d/1G1mLmtqDwl0qlCCX2koWiTrAmkKU8Apf50IGzevV88s/edit#heading=h.k2upgihlx1t9).
 
-### 🔘 Project Setup
-Access the project setup instructions here: [Project Setup](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Project-Setup).
+### 🔥 Burndown Chart for the Current Project
+We do not have a burdown chart.
+
+### 🔘 Setup for the Current Project
+Access the current project setup instructions here: [Current Project Setup](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/6.-Project-Setup).
