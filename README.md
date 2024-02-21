@@ -72,7 +72,7 @@ Access the current backlog here: [Current Backlog](https://github.com/orgs/ingin
 Access the current roadmap here: [Current Roadmap](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/4?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 📈 State Diagram for the Current Project
-Access the current state diagram here: [TODO: CREATE STATE DIAGRAM] [Current State Diagram]().
+Access the current state diagram here. We only have the old state diagram.
 
 ### 📎 Software Architecture Report for the Current Project
 Access the current software architecture report here: [Current Software Architecture Report](https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc).
