@@ -65,10 +65,10 @@ Access the current written user journey map here: [Current Written Journey Map](
 Access the current illustrated user journey map here: [TODO: CREATE ILLUSTRATED JOURNEY MAP] [Current Illustrated Journey Map]().
 
 ### 📜 Backlog for the Current Project
-Access the current backlog here: [TODO: REPLACE WITH FINISHED WEB BACKLOG, NOT ANDROID] [Current Backlog](https://github.com/orgs/Emulair/projects/1?query=is%3Aopen+sort%3Aupdated-desc).
+Access the current backlog here: [Current Backlog](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/1?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 🔜 Roadmap for the Current Project
-Access the current roadmap here: [TODO: CREATE ROADMAP] [Current Roadmap]().
+Access the current roadmap here: [Current Roadmap](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/4?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 📈 State Diagram for the Current Project
 Access the current state diagram here: [TODO: CREATE STATE DIAGRAM] [Current State Diagram]().
