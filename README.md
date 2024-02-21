@@ -63,7 +63,7 @@ Access the current user personas here: [Current User Personas](https://github.co
 
 ### 🗺️ User Journey Map for the Current Project
 Access the current written user journey map here: [Current Written Journey Map](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/5.-User-Journey-Map).<br />
-Access the current illustrated user journey map here: [TODO: CREATE ILLUSTRATED JOURNEY MAP] [Current Illustrated Journey Map]().
+We do not have an illustrated journey map.
 
 ### 📜 Backlog for the Current Project
 Access the current backlog here: [Current Backlog](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/1?query=is%3Aopen+sort%3Aupdated-desc).
@@ -72,7 +72,7 @@ Access the current backlog here: [Current Backlog](https://github.com/orgs/ingin
 Access the current roadmap here: [Current Roadmap](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/4?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 📈 State Diagram for the Current Project
-Access the current state diagram here. We only have the old state diagram.
+Access the current state diagram here. [Current State Diagram](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/blob/main/state%20diagram%20review%20feature.png).
 
 ### 📎 Software Architecture Report for the Current Project
 Access the current software architecture report here: [Current Software Architecture Report](https://docs.google.com/document/d/1jZX0tgkBtvxuBNY9IPeq4DgN6R_S_k_-VJaaCJ4ykUk/edit#heading=h.xmvd8c786lc).
