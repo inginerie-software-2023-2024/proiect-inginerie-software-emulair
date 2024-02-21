@@ -41,12 +41,13 @@ Most of our project requirements (the ones that require writing) can be more eas
 The web version of Emulair is a website created for users and developers so they can keep up with important news about our projects, find tutorials for how to use Emulair, read relevant documentation for how to contribute code and, in the future, run lightweight versions of some popular emulators directly from their web browsers. In short, we want to develop a web platform to serve as a companion for our mobile app. Our goal is to showcase potential users our application's functionalities.
 
 ### 👥 Team Description for the Current Project
-Eduard Gabriel Cristea: web team lead, backend web developer<br />
-Radu-George Bratan: frontend web developer, designer<br />
-Alexandru Antonio Petrescu: frontend web developer<br />
-Mihai Catalin Grigore: backend web developer<br />
-Eduard Marian Marin Florin: assistant web developer<br />
-Cosmin Colceru: assistant web developer
+Eduard Gabriel Cristea: backend dev, owner<br />
+Radu-George Bratan: frontend dev, co-owner<br />
+Alexandru Antonio Petrescu: frontend dev, designer<br />
+Mihai Catalin Grigore: backend dev<br />
+Eduard Marian Marin Florin: QA tester<br />
+Cosmin Colceru: SCRUM master<br />
+Here is how we divided our development/coding tasks: [Current Team Capacity](https://github.com/orgs/inginerie-software-2023-2024/projects/32/views/2?query=is%3Aopen+sort%3Aupdated-desc).
 
 ### 📓 Upcoming Features for the Current Project
 Access the upcoming features here: [Current Upcoming Features](https://github.com/inginerie-software-2023-2024/proiect-inginerie-software-emulair/wiki/1.-Upcoming-Features).
